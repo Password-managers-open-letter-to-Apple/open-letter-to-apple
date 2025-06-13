@@ -33,7 +33,7 @@ If your organization would like to sign this letter, please follow the [contribu
 
 You can either:
 - Submit a pull request adding your name below, **or**
-- [Open an issue using this template](https://github.com/YOUR-ORG/open-letter-to-apple/issues/new?template=add-signature.yaml)
+- [Open an issue using this template](https://github.com/Password-managers-open-letter-to-Apple/open-letter-to-apple/issues/new?template=add-signature.yaml)
 
 ### Signed:
 - Eugene Okon, CSO, RoboForm (Siber Systems)
