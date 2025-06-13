@@ -12,7 +12,7 @@ You can sign in one of the following ways:
 We will review and merge valid requests.
 
 ### ✍️ Option 2: GitHub Issue
-1. Open a new issue using the [“Add Signature” template](https://github.com/YOUR-ORG/open-letter-to-apple/issues/new?template=add-signature.md)
+1. Open a new issue using the [“Add Signature” template](https://github.com/YOUR-ORG/open-letter-to-apple/issues/new?template=add-signature.yaml)
 2. Include:
    - Your full name
    - Title and organization
